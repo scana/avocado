@@ -1,5 +1,8 @@
 # avocado
 
+Forked to decrease `floatPrecision` to 1 in `convertPathData.ts` in order to further optimize Android `VectorDrawables`.
+---
+
 [![Build status][travis-badge]][travis-badge-url]
 [![npm version][npm-badge]][npm-badge-url]
 [![Coverage status][coveralls-badge]][coveralls-badge-url]
