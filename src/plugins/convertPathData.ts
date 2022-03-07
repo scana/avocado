@@ -30,7 +30,7 @@ export const defaultParams = {
   straightCurves: true,
   lineShorthands: true,
   curveSmoothShorthands: true,
-  floatPrecision: 3,
+  floatPrecision: 1,
   transformPrecision: 5,
   removeUseless: true,
   collapseRepeated: true,
